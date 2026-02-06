@@ -1,18 +1,18 @@
-## Hola! 🤗 
+## Hi! 🤗 
 
-Soy Milly, una desarrolladora frontend en proceso con residencia en Panamá.
+I'm Milly, a frontend developer in training based in Panama.
 
-Soy muy visual a la hora de desarrollar mis proyectos, y me encantan que cada trabajo tenga personalidad, sea fácil de usar y que esticamente se vean limpios.
+I'm very visual when it comes to developing my projects, and I love for each piece of work to have personality, be easy to use, and look clean.
 
-Actualmente estoy aprendiendo tecnologías como HTML, CSS y JavaScript, y en el futuro aprenderé React y React Native. 
+I'm currently learning technologies such as HTML, CSS, and JavaScript, and in the future I'll learn React and React Native. 
 
-Mis herramientas favoritas son Figma y Notion para organizar mis tareas por hacer.
+My favorite tools are Figma and Notion for organizing my to-do list.
 
-Datos curiosos:
+Fun facts:
 
-• Tengo un gato 🐱. Me encantan los gatos, jaja.
+• I have a cat 🐱. I love cats, haha.
 
-• Tambien, me encanta la buena comida casera.
+• I also love good home-cooked food.
 
-Algunos pasatiempos, cuando no estoy en el codigo, sin duda amo ver series de televisión, investigar sobre diferentes temas que me interesen en el momento y amo y disfruto de escuchar música.
+Some hobbies, when I'm not coding, include watching TV series, researching different topics that interest me at the moment, and listening to music, which I love and enjoy.
 
